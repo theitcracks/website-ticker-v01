@@ -1,1 +1,5 @@
-<div class="ticker"><span>Please enter the Text for your Ticker. Don't forget so implement the css code on your website.</span></div>
+<div class="ticker">
+	<span>
+		Please enter the text for your ticker. Don't forget to implement the css code on your website.
+	</span>
+</div>
